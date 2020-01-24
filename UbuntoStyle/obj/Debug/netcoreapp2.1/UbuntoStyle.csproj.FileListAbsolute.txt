@@ -1,0 +1,20 @@
+C:\Users\Joel\Desktop\UbuntoStyle\UbuntoStyle\bin\Debug\netcoreapp2.1\UbuntoStyle.deps.json
+C:\Users\Joel\Desktop\UbuntoStyle\UbuntoStyle\bin\Debug\netcoreapp2.1\UbuntoStyle.runtimeconfig.json
+C:\Users\Joel\Desktop\UbuntoStyle\UbuntoStyle\bin\Debug\netcoreapp2.1\UbuntoStyle.runtimeconfig.dev.json
+C:\Users\Joel\Desktop\UbuntoStyle\UbuntoStyle\bin\Debug\netcoreapp2.1\UbuntoStyle.dll
+C:\Users\Joel\Desktop\UbuntoStyle\UbuntoStyle\bin\Debug\netcoreapp2.1\UbuntoStyle.pdb
+C:\Users\Joel\Desktop\UbuntoStyle\UbuntoStyle\obj\Debug\netcoreapp2.1\UbuntoStyle.csprojAssemblyReference.cache
+C:\Users\Joel\Desktop\UbuntoStyle\UbuntoStyle\obj\Debug\netcoreapp2.1\UbuntoStyle.AssemblyInfoInputs.cache
+C:\Users\Joel\Desktop\UbuntoStyle\UbuntoStyle\obj\Debug\netcoreapp2.1\UbuntoStyle.AssemblyInfo.cs
+C:\Users\Joel\Desktop\UbuntoStyle\UbuntoStyle\obj\Debug\netcoreapp2.1\UbuntoStyle.dll
+C:\Users\Joel\Desktop\UbuntoStyle\UbuntoStyle\obj\Debug\netcoreapp2.1\UbuntoStyle.pdb
+D:\CURSO C# UDEMY\UbuntoStyle\UbuntoStyle\bin\Debug\netcoreapp2.1\UbuntoStyle.deps.json
+D:\CURSO C# UDEMY\UbuntoStyle\UbuntoStyle\bin\Debug\netcoreapp2.1\UbuntoStyle.runtimeconfig.json
+D:\CURSO C# UDEMY\UbuntoStyle\UbuntoStyle\bin\Debug\netcoreapp2.1\UbuntoStyle.runtimeconfig.dev.json
+D:\CURSO C# UDEMY\UbuntoStyle\UbuntoStyle\bin\Debug\netcoreapp2.1\UbuntoStyle.dll
+D:\CURSO C# UDEMY\UbuntoStyle\UbuntoStyle\bin\Debug\netcoreapp2.1\UbuntoStyle.pdb
+D:\CURSO C# UDEMY\UbuntoStyle\UbuntoStyle\obj\Debug\netcoreapp2.1\UbuntoStyle.csprojAssemblyReference.cache
+D:\CURSO C# UDEMY\UbuntoStyle\UbuntoStyle\obj\Debug\netcoreapp2.1\UbuntoStyle.AssemblyInfoInputs.cache
+D:\CURSO C# UDEMY\UbuntoStyle\UbuntoStyle\obj\Debug\netcoreapp2.1\UbuntoStyle.AssemblyInfo.cs
+D:\CURSO C# UDEMY\UbuntoStyle\UbuntoStyle\obj\Debug\netcoreapp2.1\UbuntoStyle.dll
+D:\CURSO C# UDEMY\UbuntoStyle\UbuntoStyle\obj\Debug\netcoreapp2.1\UbuntoStyle.pdb
